@@ -1,4 +1,4 @@
-# Citi_Bikes
+# Citi_Bike
 
 This project utilizes Leaflet.js and data from the Citi Bike API to create an interactive map showing bike stations in New York City.
 
