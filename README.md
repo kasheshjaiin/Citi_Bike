@@ -16,11 +16,3 @@ Check out the live demo [here](https://kasheshjaiin.github.io/Citi_Bike/).
 - Clicking on a station marker shows the station's name and capacity.
 - Toggle between different base maps (e.g., street map).
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/Citi_Bikes.git
