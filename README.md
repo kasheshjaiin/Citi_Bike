@@ -8,7 +8,7 @@ This web application displays the locations of Citi Bike stations in New York Ci
 
 ## Demo
 
-Check out the live demo [here](https://kasheshjaiin.github.io/Citi_Bike/).
+Check out the live demo <a href="https://kasheshjaiin.github.io/Citi_Bike/" target="_blank">here</a>.
 
 ## Features
 
